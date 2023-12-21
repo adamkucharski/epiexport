@@ -1,5 +1,3 @@
-
-
 # OpenSkies data ----------------------------------------------------------
 
 # Load openSkies package (not used currently)
@@ -68,7 +66,6 @@ number_cases(3,daily_wuhan_iata,catchment_population,incubation_period,onset_to_
 
 # OpenFlights estimate (aligned to roughly match Imai et al)
 number_cases(3,daily_outbound,catchment_population,incubation_period,onset_to_detection)
-
 
 # Other tools to explore: 
 # #https://opensky-network.org/data/data-tools#d4
